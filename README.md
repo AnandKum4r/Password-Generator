@@ -37,23 +37,14 @@ The app is lightweight, responsive, and runs entirely on the frontend—no data 
    cd Password-Generator
    ```
 
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
 ## Usage
-1. Start the development server:
-    ```bash
-    npm run dev
-    ```
-
-2. Open in browser:
-    [http://localhost:3000](http://localhost:3000)
+1. Open index.html in your browser
+   
 
 ## 🚀 Technologies Used
 
-- ⚛️ **Javascript** 
-- ⚡ **CSS** 
-- 🎨 **HTML** 
+- 🧱 **HTML** – Page structure and content  
+- 🎨 **CSS** – Stylish and responsive UI (dark mode)  
+- 🧠 **JavaScript** – Password logic, interactivity, and clipboard support 
 
 ---
