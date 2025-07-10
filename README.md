@@ -29,7 +29,7 @@ The app is lightweight, responsive, and runs entirely on the frontend—no data 
 
 ---
 
-## 📥 Installation
+## 📂 How to Use / Run
 
 1. **Clone the repo**
    ```bash
