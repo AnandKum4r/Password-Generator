@@ -36,6 +36,7 @@ The app is lightweight, responsive, and runs entirely on the frontend—no data 
    git clone https://github.com/AnandKum4r/Password-Generator.git
    cd Password-Generator
    ```
+---
 
 ## Usage
 1. Open index.html in your browser
